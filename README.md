@@ -1,4 +1,12 @@
 # 42projects
-My 42's common core path projects
 
-<h1>ciao</h1>
+
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
+<h1 align="left"><a href="https://github.com/sidev86/libft>Libft</h1>
