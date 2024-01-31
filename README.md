@@ -1,7 +1,7 @@
 # 42projects
 
 
-<h3><a href="https://github.com/sidev86/libft">libft</a>(with mini-guide)</h3> 
+<h3><a href="https://github.com/sidev86/libft">libft</a> (explained)</h3> 
 <h3><a href="https://github.com/sidev86/ft_printf">ft_printf</a></h3>
 <h3><a href="https://github.com/sidev86/get_next_line">get_next_line</a></h2>
 <h3><a href="https://github.com/sidev86/push_swap">push_swap</a></h3>
